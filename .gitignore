@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+yarn-error.log
+node_modules
+node_modules_backup
+coverage/
+dist
+/build/
+.vscode/
+.github
+.npmignore
