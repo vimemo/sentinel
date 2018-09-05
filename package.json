@@ -34,13 +34,15 @@
     "request": "^2.88.0",
     "task-utils": "file:../shared-libs/task-utils",
     "underscore": "^1.8.3",
-    "uuid": "^3.2.1",
     "winston": "^2.4.1"
   },
   "devDependencies": {
+    "chai": "4.1.2",
     "jest": "23.5.0",
     "jest-runner-mocha": "0.6.0",
-    "jsverify": "^0.8.3"
+    "jsverify": "^0.8.3",
+    "mocha": "5.2.0",
+    "sinon": "6.2.0"
   },
   "bundledDependencies": [
     "@shared-libs/message-utils",
